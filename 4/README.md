@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Even the Odds</title>
-</head>
 <body>
 
 <h1>Even the Odds</h1>
@@ -60,4 +53,3 @@
 </table>
 
 </body>
-</html>
