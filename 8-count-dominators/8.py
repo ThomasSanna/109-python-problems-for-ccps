@@ -8,7 +8,7 @@ def count_dominators(items):
     for i in range(len(items) - 2, -1, -1): # loop backwards from the second last item to the first item.
         if items[i] > maxElement:
             count += 1
-            max_element = items[i]
+            maxElement = items[i]
 
     return count
 
