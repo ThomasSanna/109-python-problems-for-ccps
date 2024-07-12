@@ -2,7 +2,7 @@
     <h1>13. Rooks on a rampage</h1>
     <pre>
 def safe_squares_rooks(n, rooks):
-    </pre>
+    </pre> 
     <p>
         A generalized n-by-n chessboard has been invaded by a parliament of rooks, each rook represented as a two-tuple (row, column) of the row and the column of the square that the rook is in. Since we are now computer programmers instead of chess players and other healthy and normal folks, our rows and columns are numbered from 0 to n - 1. A chess rook covers all squares that are in the same row or in the same column. Given the board size n and the list of rooks on that board, count the number of empty squares that are safe, that is, are not covered by any rook.
     </p>
