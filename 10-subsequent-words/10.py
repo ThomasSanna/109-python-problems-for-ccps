@@ -1,4 +1,4 @@
-file = open('./external-files/10-words_sorted.txt', 'r')
+file = open('./external-files/words_sorted.txt', 'r')
 
 def words_with_letters(words, letters):
   resTab = []
